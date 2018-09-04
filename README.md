@@ -4,9 +4,8 @@ The idea of this project is to create a central station for customised news feed
 ![](https://www.pixeden.com/media/k2/galleries/787/001-daily-news-paper-presentation-cover-back-mockup-brand-editorial-psd.jpg)
 
 **p0:**  
-- [ ] Practice setting standards:  
+- [ ] Planning – setting standards:  
 > What build tool to use?  
-
 > Set up JSHint to check code quality
 
 - [ ] Look for News APIs
