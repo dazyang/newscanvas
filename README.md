@@ -5,7 +5,8 @@ The idea of this project is to create a central station for customised news feed
 
 **p0:**  
 - [ ] Practice setting standards:  
-> What build tool to use? 
+> What build tool to use?  
+
 > Set up JSHint to check code quality
 
 - [ ] Look for News APIs
