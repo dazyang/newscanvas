@@ -8,7 +8,7 @@ The idea of this project is to create a central station for customised news feed
 > What build tool to use?  
 > Set up JSHint to check code quality
 
-- [ ] Look for News APIs
+- [x] Look for News APIs
 - [ ] Create a blank canvas (UI)
 
 **p1:**
