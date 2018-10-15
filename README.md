@@ -5,12 +5,11 @@ The idea of this project is to create a central station for customised news feed
 
 **p0:**  
 - [ ] Planning – setting standards:  
-> What build tool to use?  
 > Set up JSHint to check code quality
 
-- [x] Look for News APIs
+- [x] Look for News APIs – https://newsapi.org
 - [ ] Create a blank canvas (UI)
 
 **p1:**
 - [ ] Design several templates
-- [ ] Do I need a database? (for users to save that piece of news?) 
+- [ ] Do I need a database? (to allow users to save news) 
