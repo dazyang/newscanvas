@@ -1,5 +1,5 @@
 # newscanvas  
-The idea of this project is to create a central station for customised news feeds. 
+A news feed web app.
 
 ![](https://www.pixeden.com/media/k2/galleries/787/001-daily-news-paper-presentation-cover-back-mockup-brand-editorial-psd.jpg)
 
@@ -13,3 +13,6 @@ The idea of this project is to create a central station for customised news feed
 **p1:**
 - [ ] Design several templates
 - [ ] Do I need a database? (to allow users to save news) 
+
+
+
