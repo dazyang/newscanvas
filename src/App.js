@@ -8,10 +8,14 @@ class App extends Component {
     return (
       <div className="App">
         <div className="wrapper">
-          <h1>newscanvas</h1>
-          <div className="canvas">
-            
+          <div className="news-search">
+            <h1>{'source of news'}</h1>
+            <input className="search-bar" value="Search Keywords"/>
           </div>
+          <div className="canvas">
+            {'Loading news'}
+          </div>
+          <button className="download-btn">Download as PDF</button>
         </div>
       </div>
     );
