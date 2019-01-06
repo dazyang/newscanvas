@@ -4,7 +4,7 @@ class Canvas extends Component {
   render() {
     return (
           <div className="canvas">
-            <h2>What's the topic today?</h2>
+            <h3>What news would you like to read today?</h3>
           </div>
     );
   }
